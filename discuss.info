@@ -1,0 +1,33 @@
+; Packaging information for discuss
+name = "Discuss"
+description = "Discussion forum distribution built on harmony_core."
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+; Core
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = field_ui
+dependencies[] = file
+; Administration
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+; Other
+dependencies[] = httprl
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = libraries
+dependencies[] = restws
+dependencies[] = restws_basic_auth
+dependencies[] = strongarm
+dependencies[] = token
+; UUID
+dependencies[] = uuid

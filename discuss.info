@@ -72,7 +72,6 @@ dependencies[] = og_ui
 dependencies[] = atjs
 dependencies[] = better_formats
 dependencies[] = diff
-dependencies[] = discuss
 dependencies[] = elements
 dependencies[] = entity
 dependencies[] = entity_quote

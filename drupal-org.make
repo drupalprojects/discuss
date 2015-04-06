@@ -79,6 +79,12 @@ projects[entityreference_dynamicselect_widget][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.3"
 projects[entityreference_prepopulate][subdir] = "contrib"
 
+projects[search_api][version] = "1.14"
+projects[search_api][subdir] = "contrib"
+
+projects[elements][version] = "1.4"
+projects[elements][subdir] = "contrib"
+
 projects[eva][version] = "1.2"
 projects[eva][subdir] = "contrib"
 
@@ -254,6 +260,12 @@ projects[flag][version] = "3.5"
 
 projects[harmony_core][subdir] = "contrib"
 projects[harmony_core][version] = "1.0-alpha2"
+
+projects[harmony_search][subdir] = "contrib"
+projects[harmony_search][version] = "1.x-dev"
+
+projects[harmony_access][subdir] = "contrib"
+projects[harmony_access][version] = "1.x-dev"
 
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.5"

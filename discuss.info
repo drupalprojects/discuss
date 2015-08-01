@@ -2,7 +2,8 @@
 name = "Discuss"
 description = "Discussion forum distribution built on harmony_core."
 core = "7.x"
-
+elmslndefaulttitle = "Discussions"
+elmslntype = "service"
 ; ----------
 ; ELMSLN Core Dependencies
 ; ----------
@@ -154,5 +155,8 @@ dependencies[] = views_load_more
 dependencies[] = harmony_atjs
 dependencies[] = harmony_core
 dependencies[] = discuss_ux
+dependencies[] = discuss_displays
+dependencies[] = discuss_harmony_fields
+dependencies[] = discuss_section_threads
 dependencies[] = elmsln_student_filter
 
